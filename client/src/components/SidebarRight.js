@@ -114,6 +114,7 @@ const SidebarRight = () => {
                         title={e?.title}
                         artists={e?.artistsNames}
                         sid={e?.encodeId}
+                        curAlbumId={curAlbumId}
                       ></SongItem>
                     ))}
                   </div>

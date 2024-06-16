@@ -15,12 +15,13 @@ const SongItem = ({
   percent,
   style,
   size,
+  curAlbumId,
 }) => {
   const dispatch = useDispatch();
   return (
     <div
       onClick={() => {
-        dispatch(actions.setCurAlbumId(null));
+        dispatch(actions.setCurAlbumId(curAlbumId || null));
         dispatch(actions.setCurSongId(sid));
         dispatch(actions.play(true));
         dispatch(

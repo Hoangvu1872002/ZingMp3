@@ -189,7 +189,7 @@ const Player = ({ setIsShowRightSidebar }) => {
           </span>
         </div>
       </div>
-      <div className="w-[40%] flex-auto flex items-center justify-center gap-4 flex-col py-2">
+      <div className="w-[40%] flex-auto flex items-center justify-center gap-1 flex-col py-2">
         <div className="flex gap-8 justify-center items-center">
           <span
             className={`cursor-pointer ${

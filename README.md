@@ -15,3 +15,12 @@
 
 >### Trang chủ
 https://github.com/Hoangvu1872002/ZingMp3/assets/108190241/b6e36c75-643d-4d36-8552-355aacc18b7d
+
+>### Nghe nhạc
+https://github.com/Hoangvu1872002/ZingMp3/assets/108190241/1222064a-d391-4736-9272-a0176fa95ad6
+
+>### Tìm kiếm
+https://github.com/Hoangvu1872002/ZingMp3/assets/108190241/aea11e8f-60f3-4ba2-bae2-15c6f41a190d
+
+>### ZingChart
+https://github.com/Hoangvu1872002/ZingMp3/assets/108190241/6c567a7d-b18c-4df8-8164-e8d5ec5594af
